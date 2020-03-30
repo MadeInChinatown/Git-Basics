@@ -1,6 +1,6 @@
 # Git Basics
 
-**TLDR: **Git is a version control system. Git is used to track changes, backup, keep a version history of all your project files somewhere online. Use Git so you don't accidentally lose your code.  
+**TLDR:** Git is a version control system. Git is used to track changes, backup, keep a version history of all your project files somewhere online. Use Git so you don't accidentally lose your code.  
 
 These are the commands you need to know to get started:
 * git clone

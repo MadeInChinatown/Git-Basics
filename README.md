@@ -12,6 +12,9 @@ These are the commands you need to know to get started:
 * git commit
 * git push
 
+To get started with learning the basics of Git, we recommend the following tools:
+* BitBucket (Git account)
+* SourceTree (Git application/client)
 
 
 

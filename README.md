@@ -105,21 +105,29 @@ Normally, you have to type out the Git commands in some sort of terminal, but So
 
 ![](https://i.gyazo.com/7ad7227ecd240db95bb1ba5210276409.png "git clone")
 <br/>
+<br/>
+<br/>
 
 ##### git add
 
 ![](https://i.gyazo.com/979c6f6d7677b32e2a02008a0d89692a.png "git add")
+<br/>
+<br/>
 <br/>
 
 ##### git status
 
 ![](https://i.gyazo.com/f7cfdd69bc4c93416f6aa582b6e3a54f.png "git status")
 <br/>
+<br/>
+<br/>
 
 
 ##### git commit
 
 ![](https://i.gyazo.com/a1fc03f6ec1f7716f9a17e7b7ffe47d0.png "git commit")
+<br/>
+<br/>
 <br/>
 
 ##### The Rest (git pull, git push, git fetch, git merge)

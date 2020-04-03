@@ -13,7 +13,7 @@ These are the commands you need to know to get started:
 * git push
 
 To get started with learning the basics of Git, we recommend the following tools:
-* BitBucket (Git account)
+* GitHub (Git account)
 * SourceTree (Git application/client)
 
 
@@ -69,19 +69,59 @@ To get started with using Git, you only really need to know these 8 commands. An
 ##### git status
 
 * Shows which files were recently created, modified, or deleted
-* Shows which files have been "staged"
+* Shows which files are "staged"
 
 ##### git commit
 
 * Takes a snapshot of your project and saves your files at that point in time
+* Only "staged" files will be saved
 * Does **NOT** send your changes to Git
-* Only "staged" files will be updated in Git
 
 ##### git push
 
-* Send all new commits (snapshots of project) to Git
+* Send all new commits (snapshots) to Git
 
 
 
 
 ## Tools to Get Started
+
+To get started with using Git, we recommend the two following tools:
+* GitHub
+* SourceTree
+
+### GitHub
+This account is where your project files and your changes will be saved. When you push files to or pull files, you will upload or grab the files from the GitHub servers. Why GitHub specifically? Because it's the most commonly used hosting platform. You are free to use other services as well, like BitBucket.
+
+[Register for GitHub here.](https://github.com/join?source=header-home "GitHub")
+
+### SourceTree
+
+SourceTree is an application to make using Git easier. SourceTree's documentation on setting the application up is pretty thorough, so if you need steps to set up SourceTree, you can find their documentation [here](https://confluence.atlassian.com/get-started-with-sourcetree/install-and-set-up-sourcetree-847359043.html "SourceTree Setup"). Just make sure the account type/host is the correct one (GitHub in our case).  
+
+Normally, you have to type out the Git commands in some sort of terminal, but SourceTree replaces all that with fancy buttons:
+
+##### git clone
+
+![](https://i.gyazo.com/7ad7227ecd240db95bb1ba5210276409.png "git clone")
+<br/>
+
+##### git add
+
+![](https://i.gyazo.com/979c6f6d7677b32e2a02008a0d89692a.png "git add")
+<br/>
+
+##### git status
+
+![](https://i.gyazo.com/f7cfdd69bc4c93416f6aa582b6e3a54f.png "git status")
+<br/>
+
+
+##### git commit
+
+![](https://i.gyazo.com/a1fc03f6ec1f7716f9a17e7b7ffe47d0.png "git commit")
+<br/>
+
+##### The Rest (git pull, git push, git fetch, git merge)
+
+![](https://i.gyazo.com/d493eb100ca765ec13613af4b67487ff.png "The Rest")

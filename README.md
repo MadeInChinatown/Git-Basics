@@ -90,7 +90,7 @@ To get started with using Git, we recommend the two following tools:
 * GitHub
 * SourceTree
 
-### [GitHub] (https://github.com/join?source=header-home "GitHub")
+### [GitHub](https://github.com/join?source=header-home "GitHub")
 This account is where your project files and your changes will be saved. When you push files to or pull files, you will upload or grab the files from the GitHub servers. Why GitHub specifically? Because it's the most commonly used hosting platform. You are free to use other services as well, like BitBucket.
 
 ### [SourceTree](https://www.sourcetreeapp.com/ "SourceTree")
